@@ -1,0 +1,8 @@
+Task: 1 (Headlines)
+Python version: python3
+Runtime: 67.59
+Train Score: 94.694
+Changes: We trained the model on a linux machine; it was previously trained on
+macOS, and the CS aquarium machines initially had issues unpacking the pkl
+files. It works now.
+

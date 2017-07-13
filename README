@@ -1,0 +1,9 @@
+files:
+    classifier.py - the trained classifier
+    vocabulary.pkl - a vocabulary for bag of words
+    svm_model.pkl - the trained model
+    project.pdf - project description
+    requirements.txt - the required packages for our virtual environment
+    USERS - list of users
+
+
