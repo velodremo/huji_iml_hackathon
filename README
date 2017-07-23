@@ -1,5 +1,6 @@
 files:
     classifier.py - the trained classifier
+    load_headlines.py - loading the data and training the SVM model
     vocabulary.pkl - a vocabulary for bag of words
     svm_model.pkl - the trained model
     project.pdf - project description
